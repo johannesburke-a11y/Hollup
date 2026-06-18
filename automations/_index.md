@@ -23,4 +23,4 @@ automations/
 
 ## Current contents
 
-_(empty)_
+- `meeting-notes/` — auto-captured Google Meet notes (sync runs every 30 min via Task Scheduler)

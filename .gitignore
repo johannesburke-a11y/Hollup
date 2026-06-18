@@ -13,6 +13,10 @@ scripts/google-calendar/credentials.json
 scripts/google-calendar/token.json
 scripts/google-calendar/node_modules/
 scripts/google-calendar/package-lock.json
+scripts/google-calendar/processed-events.json
+
+# Automation logs
+automations/meeting-notes/sync.log
 
 # Obsidian workspace files (optional: commit or ignore)
 .obsidian/workspace.json
