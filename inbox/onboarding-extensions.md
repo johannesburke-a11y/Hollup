@@ -7,7 +7,7 @@
 
 ## Category 1 — Core Skills
 
-- [ ] **weekly-review** (`skills/weekly-review.md`)
+- [x] **weekly-review** (`skills/weekly-review.md`)
   - Guided weekly review covering todos, waiting-on, decisions, interactions, inbox, people, projects
   - Trigger: Friday morning or Monday start
   - Ref: `resources/extensions/catalog.md` → Category 1
