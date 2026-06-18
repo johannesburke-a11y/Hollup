@@ -1,0 +1,20 @@
+# Daily logs — personal, not for sharing
+daily/
+
+# Environment variables and secrets
+.env
+.env.*
+*.key
+*.pem
+*.secret
+
+# Obsidian workspace files (optional: commit or ignore)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Optional: ignore trash
+# trash/
