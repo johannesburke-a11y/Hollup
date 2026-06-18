@@ -49,7 +49,7 @@
 
 ## Category 5 — Optional Vault Areas
 
-- [ ] **context/strategy/** — Strategic Focus Layer
+- [x] **context/strategy/** — Strategic Focus Layer
   - Document quarterly goals, personal development direction, career priorities
   - File: `context/strategy.md`
   - Ref: `resources/extensions/catalog.md` → Category 5
