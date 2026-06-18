@@ -12,6 +12,7 @@ It is the single source of truth for agent behavior that goes beyond the primary
 | File | Purpose |
 |---|---|
 | `ruleset.md` | General rules for all agents and subagents |
+| `project-manager.md` | Subagent — project initiation, planning, tracking, and reporting |
 
 ## Relationship to other files
 

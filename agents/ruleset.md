@@ -20,6 +20,7 @@ HOLLOP operates with two agent types:
 |---|---|---|
 | **Primary agent** | Orchestrator — plans, delegates, reviews, writes back to wiki | Full write access, direct operator contact |
 | **Subagent** | Worker — executes a single bounded task, returns output | Scoped write access only, no direct operator contact |
+| **Project Manager subagent** | Specialised subagent — project lifecycle (initiate, plan, track, report, close) | Writes to `projects/` only — see `agents/project-manager.md` |
 
 **Rule:** Only the primary agent communicates with the operator. Subagents report to the primary agent, not to Johannes directly.
 
