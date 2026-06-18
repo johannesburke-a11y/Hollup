@@ -10,7 +10,7 @@ tags: [area/work, topic/calendar, topic/google]
 
 ## Purpose
 
-Connects PersonalOS to Google Calendar so the agent can:
+Connects HOLLOP to Google Calendar so the agent can:
 - Show what's on today / this week without leaving the terminal
 - Generate structured daily briefings before the workday starts
 - Pull Google Meet notes and turn them into interaction files
@@ -35,7 +35,7 @@ Connects PersonalOS to Google Calendar so the agent can:
 
 ## Procedure
 
-All commands run from the PersonalOS root:
+All commands run from the HOLLOP root:
 
 ```powershell
 node scripts/google-calendar/calendar.js <command>

@@ -1,5 +1,5 @@
 /**
- * calendar.js — PersonalOS Google Calendar integration
+ * calendar.js — HOLLOP Google Calendar integration
  *
  * Usage:
  *   node calendar.js <command> [options]
@@ -344,7 +344,7 @@ async function main() {
 
   if (!cmd) {
     console.log(`
-PersonalOS — Google Calendar CLI
+HOLLOP — Google Calendar CLI
 
 Commands:
   today                  List today's events

@@ -56,7 +56,7 @@ Ensure that at the end of every content-relevant session, an entry lands in the 
 **Example 1 — setup session:**
 
 ```markdown
-## Session 1 (20:00–20:30) — PersonalOS initial setup
+## Session 1 (20:00–20:30) — HOLLOP initial setup
 
 ### What was done
 - Copied skeleton, filled in USER.md

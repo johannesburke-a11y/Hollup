@@ -35,4 +35,4 @@ resources/
 - `knowledge.md` — template for `knowledge/wiki/<topic>.md`
 
 ### extensions/
-- `catalog.md` — all possible PersonalOS extensions (skills, tool integrations, agent hooks, automations, optional vault areas)
+- `catalog.md` — all possible HOLLOP extensions (skills, tool integrations, agent hooks, automations, optional vault areas)

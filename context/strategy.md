@@ -55,4 +55,4 @@ During the weekly review, ask:
 
 ## Last Updated
 
-2026-06-18 — initial setup during PersonalOS onboarding
+2026-06-18 — initial setup during HOLLOP onboarding

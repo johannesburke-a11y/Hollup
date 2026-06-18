@@ -1,6 +1,6 @@
 # Google Calendar Integration
 
-> Context file for the PersonalOS Google Calendar / Drive / Docs integration.
+> Context file for the HOLLOP Google Calendar / Drive / Docs integration.
 > Read by the agent before executing any calendar operations.
 
 ---
@@ -46,7 +46,7 @@
 
 ## Available Commands
 
-Run all commands from the PersonalOS root:
+Run all commands from the HOLLOP root:
 
 ```powershell
 node scripts/google-calendar/calendar.js <command>

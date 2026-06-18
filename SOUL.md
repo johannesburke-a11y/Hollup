@@ -1,6 +1,6 @@
 # SOUL.md
 
-> **Behavioral contract for the AI agent operating in PersonalOS.**
+> **Behavioral contract for the AI agent operating in HOLLOP.**
 > This file defines how the agent acts, what stance it takes, and what its role is.
 > Adapt this to match the behavior you want from your agent.
 

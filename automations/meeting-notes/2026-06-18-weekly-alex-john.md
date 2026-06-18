@@ -8,7 +8,7 @@ drive_doc: 1xKAXzVEtm-ZHiZMS7YCuh7KRDlrbntOtP_bq_slRzME
 
 # Meeting Notes: Weekly Alex & John
 
-> Auto-captured by PersonalOS sync-meeting-notes automation.
+> Auto-captured by HOLLOP sync-meeting-notes automation.
 > Promote to `interactions/` if this meeting needs follow-up tracking.
 
 ## Meta

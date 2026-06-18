@@ -8,7 +8,7 @@ drive_doc: none
 
 # Meeting Notes: Claude Usage
 
-> Auto-captured by PersonalOS sync-meeting-notes automation.
+> Auto-captured by HOLLOP sync-meeting-notes automation.
 > Promote to `interactions/` if this meeting needs follow-up tracking.
 
 ## Meta

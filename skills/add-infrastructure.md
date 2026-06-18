@@ -6,7 +6,7 @@ tags: [area/wiki, topic/infrastructure]
 
 # Skill: add-infrastructure
 
-> **Checklist for adding a new tool or system to PersonalOS.**
+> **Checklist for adding a new tool or system to HOLLOP.**
 > Follow this skill every time a new tool (API, ticket system, database, etc.) is connected.
 > Ensures every tool is consistently structured and reliably findable.
 

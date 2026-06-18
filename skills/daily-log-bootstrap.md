@@ -27,7 +27,7 @@ Eliminates the friction of manually creating the file each morning.
 
 ## Procedure
 
-Run from the PersonalOS root:
+Run from the HOLLOP root:
 
 ```powershell
 .\scripts\daily-log-bootstrap.ps1

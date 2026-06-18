@@ -1,13 +1,13 @@
-# PersonalOS — Starter Kit
+# HOLLOP — Starter Kit
 
 > A personal knowledge management system designed to work with AI coding agents.
 > Built on plain Markdown, optionally extended with Obsidian.
 
 ---
 
-## What is PersonalOS?
+## What is HOLLOP?
 
-PersonalOS is a structured personal wiki that serves as the **long-term memory** for you and your AI agent. It is:
+HOLLOP is a structured personal wiki that serves as the **long-term memory** for you and your AI agent. It is:
 
 - A **context system** — everything the agent needs to know about you, your work, your projects
 - A **knowledge base** — raw sources and curated insights kept cleanly separate
@@ -21,7 +21,7 @@ The system is designed to be used with an AI coding agent (e.g. [pi](https://git
 ## How to set up
 
 ### 1. Copy this folder
-Place this folder somewhere on your machine. Recommended: `~/PersonalOS/`
+Place this folder somewhere on your machine. Recommended: `~/HOLLOP/`
 
 ### 2. Connect your agent
 Point your AI coding agent to this folder. The agent reads `AGENTS.md` first.
@@ -33,7 +33,7 @@ The agent will detect that `USER.md` is still a template and automatically start
 - Explain every rule in RULES.md and check if it fits your workflow
 - Ask about useful extensions for your specific setup
 
-You can also trigger it manually: **"Run onboarding"** or **"Set up PersonalOS"**
+You can also trigger it manually: **"Run onboarding"** or **"Set up HOLLOP"**
 
 ### 4. Open in Obsidian (optional)
 Open the folder as a vault in [Obsidian](https://obsidian.md). The system is fully compatible.

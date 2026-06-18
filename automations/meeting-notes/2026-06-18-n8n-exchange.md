@@ -8,7 +8,7 @@ drive_doc: 1Pvx3Q3DkhI5PXX9Ax_Vm91kwnyZVtCeUnyvQ1dKVWh8
 
 # Meeting Notes: N8N Exchange
 
-> Auto-captured by PersonalOS sync-meeting-notes automation.
+> Auto-captured by HOLLOP sync-meeting-notes automation.
 > Promote to `interactions/` if this meeting needs follow-up tracking.
 
 ## Meta

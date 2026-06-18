@@ -8,7 +8,7 @@ drive_doc: 11Q7cre38eEGFj68EgaCFx6js1um9TV4quHuAjDLrv7U
 
 # Meeting Notes: #PODloveslove ♥️ - daily standup
 
-> Auto-captured by PersonalOS sync-meeting-notes automation.
+> Auto-captured by HOLLOP sync-meeting-notes automation.
 > Promote to `interactions/` if this meeting needs follow-up tracking.
 
 ## Meta

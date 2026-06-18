@@ -6,20 +6,20 @@ tags: [area/wiki, topic/setup]
 
 # Skill: onboarding
 
-> **First-run walkthrough — sets up PersonalOS for a new user.**
+> **First-run walkthrough — sets up HOLLOP for a new user.**
 > Run this skill when USER.md still contains `_TODO_` placeholders.
 > The agent guides through every core file interactively, one step at a time.
 
 ## Purpose
 
-Ensure that a new PersonalOS installation is fully personalized before the first real use.
+Ensure that a new HOLLOP installation is fully personalized before the first real use.
 A generic setup is useless — the system only becomes powerful when it reflects the actual user.
 This skill transforms the starter kit into a real personal operating system.
 
 ## Trigger
 
 - USER.md still contains `_TODO_` fields (agent detects on session start)
-- User says: "Set up PersonalOS", "Run onboarding", "First-time setup"
+- User says: "Set up HOLLOP", "Run onboarding", "First-time setup"
 - AGENTS.md startup check fires (see AGENTS.md — First Run section)
 
 ## Prerequisites
@@ -41,7 +41,7 @@ This skill transforms the starter kit into a real personal operating system.
 
 ### Step 1 — Welcome & orientation
 
-Greet the user. Explain in 3–4 sentences what PersonalOS is and what this onboarding does.
+Greet the user. Explain in 3–4 sentences what HOLLOP is and what this onboarding does.
 Then ask: "What language should I use to communicate with you?" — set this as the communication language for the rest of the session.
 
 ---
@@ -132,7 +132,7 @@ Ask: "Is there anything you'd want me to always do at the start of a session tha
 
 Load `resources/extensions/catalog.md`.
 
-Explain: "PersonalOS can be extended with additional skills, integrations, and automations. Let me ask about a few areas — you can always add these later."
+Explain: "HOLLOP can be extended with additional skills, integrations, and automations. Let me ask about a few areas — you can always add these later."
 
 Work through the catalog **category by category**. For each category, ask ONE targeted question based on the user's profile (from USER.md). Don't list all options — make a recommendation.
 
@@ -149,7 +149,7 @@ For each "yes" → note it in `inbox/onboarding-extensions.md` as a TODO. Don't 
 
 ### Step 7 — Initialize Git (optional)
 
-Ask: "Should I initialize a Git repository for your PersonalOS vault now?"
+Ask: "Should I initialize a Git repository for your HOLLOP vault now?"
 
 If yes:
 1. First, review `.gitignore` together:
@@ -161,7 +161,7 @@ If yes:
 git init
 git add .
 git status   # review staged files together before committing
-git commit -m "chore: initial PersonalOS setup"
+git commit -m "chore: initial HOLLOP setup"
 ```
 
 Also ask: "Do you have a remote repository (GitHub, GitLab, Gitea)? If yes, share the URL and I'll add the remote."
@@ -178,7 +178,7 @@ git push -u origin main
 
 Run the `log` skill (`skills/log.md`) to write the first session entry:
 - Create `daily/<today>.md`
-- Log entry: "PersonalOS onboarding — initial setup"
+- Log entry: "HOLLOP onboarding — initial setup"
 - Write-back done: USER.md, SOUL.md, RULES.md personalized; extensions noted in inbox/
 
 ---
@@ -226,7 +226,7 @@ Summarize what was set up:
 - Git initialized (if applicable) ✅
 
 Tell the user:
-> "Your PersonalOS is now personalized and ready. The starter kit scaffolding has been cleaned up. The next step is to work through the extensions you noted — start with the ones that match your daily tools."
+> "Your HOLLOP is now personalized and ready. The starter kit scaffolding has been cleaned up. The next step is to work through the extensions you noted — start with the ones that match your daily tools."
 
 ---
 

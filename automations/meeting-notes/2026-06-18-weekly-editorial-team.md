@@ -8,7 +8,7 @@ drive_doc: 1QGZ7-1T-1k5VZG6DSXdetrnN9J0q-J_4FVc_ZnKZ0cg
 
 # Meeting Notes: Weekly Editorial Team
 
-> Auto-captured by PersonalOS sync-meeting-notes automation.
+> Auto-captured by HOLLOP sync-meeting-notes automation.
 > Promote to `interactions/` if this meeting needs follow-up tracking.
 
 ## Meta

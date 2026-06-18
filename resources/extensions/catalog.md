@@ -1,6 +1,6 @@
 # Extensions Catalog
 
-> **All possible PersonalOS extensions — skills, integrations, hooks, automations.**
+> **All possible HOLLOP extensions — skills, integrations, hooks, automations.**
 > Used by the `onboarding` skill to ask targeted setup questions.
 > Also useful for self-guided expansion after the initial setup.
 
@@ -70,7 +70,7 @@ These skills extend the base system with workflow patterns. Recommended for ever
 
 ### weekly-review
 
-**What it does:** A comprehensive guided weekly review covering all PersonalOS areas: todos, waiting-on, decisions, interactions, daily logs, inbox, people, projects, and strategy. One structured session (~30–45 min) that clears open threads and sets priorities for the coming week.
+**What it does:** A comprehensive guided weekly review covering all HOLLOP areas: todos, waiting-on, decisions, interactions, daily logs, inbox, people, projects, and strategy. One structured session (~30–45 min) that clears open threads and sets priorities for the coming week.
 
 **When it makes sense:** You want a reliable weekly rhythm and don't want things to fall through the cracks. Especially valuable once the system has been running for 2+ weeks.
 
@@ -190,7 +190,7 @@ These extensions require [pi](https://github.com/earendil-works/pi-coding-agent)
 
 ### /sync command
 
-**What it does:** An on-demand operational scan. The agent reads all PersonalOS areas (inbox, interactions, notes, daily logs, todos, waiting-on, decisions, people, projects, knowledge), identifies only what needs attention, and works through it with you. Run it multiple times per day — it shows only the delta.
+**What it does:** An on-demand operational scan. The agent reads all HOLLOP areas (inbox, interactions, notes, daily logs, todos, waiting-on, decisions, people, projects, knowledge), identifies only what needs attention, and works through it with you. Run it multiple times per day — it shows only the delta.
 
 **When it makes sense:** You want a quick "what needs my attention right now" view without a full weekly review.
 

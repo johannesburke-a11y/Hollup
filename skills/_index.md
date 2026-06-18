@@ -1,6 +1,6 @@
 # Skills
 
-> **Repeatable workflows — the power feature of PersonalOS.**
+> **Repeatable workflows — the power feature of HOLLOP.**
 
 ## Purpose
 
@@ -51,4 +51,4 @@ skills/
 - `add-infrastructure.md` — checklist for connecting a new tool or system (7-step pattern)
 - `daily-log-bootstrap.md` — creates today's daily log from template at session start
 - `google-calendar.md` — Google Calendar / Meet notes / scheduling (IONOS Workspace)
-- `weekly-review.md` — guided weekly review across all PersonalOS areas (~30–45 min)
+- `weekly-review.md` — guided weekly review across all HOLLOP areas (~30–45 min)

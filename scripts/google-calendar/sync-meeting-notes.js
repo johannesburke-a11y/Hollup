@@ -1,5 +1,5 @@
 /**
- * sync-meeting-notes.js — PersonalOS Meeting Notes Automation
+ * sync-meeting-notes.js — HOLLOP Meeting Notes Automation
  *
  * Finds meetings that have ended today (or in the past N hours),
  * searches Google Drive for associated Meet notes,
@@ -112,7 +112,7 @@ drive_doc: ${driveFile?.id || "none"}
 
 # Meeting Notes: ${title}
 
-> Auto-captured by PersonalOS sync-meeting-notes automation.
+> Auto-captured by HOLLOP sync-meeting-notes automation.
 > Promote to \`interactions/\` if this meeting needs follow-up tracking.
 
 ## Meta

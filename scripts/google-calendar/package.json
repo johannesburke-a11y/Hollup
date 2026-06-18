@@ -1,7 +1,7 @@
 {
   "name": "personalos-google-calendar",
   "version": "1.0.0",
-  "description": "Google Calendar / Drive / Docs integration for PersonalOS",
+  "description": "Google Calendar / Drive / Docs integration for HOLLOP",
   "type": "module",
   "scripts": {
     "auth": "node auth.js",

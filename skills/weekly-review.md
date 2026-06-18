@@ -10,7 +10,7 @@ tags: [area/wiki, topic/review]
 
 ## Purpose
 
-A structured ~30–45 min session that sweeps all PersonalOS areas once per week.
+A structured ~30–45 min session that sweeps all HOLLOP areas once per week.
 Prevents things from falling through the cracks. Gives the coming week a clear starting point.
 The system only stays reliable if it is reviewed regularly — this skill is the mechanism.
 

@@ -1,5 +1,5 @@
 /**
- * PersonalOS — pi Extension
+ * HOLLOP — pi Extension
  *
  * Hooks:
  *   session_start  → daily briefing widget (todos, inbox, weekly review status)

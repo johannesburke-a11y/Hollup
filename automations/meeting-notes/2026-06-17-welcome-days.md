@@ -8,7 +8,7 @@ drive_doc: 11TYYPFVPP5thR7aoSxYw_Ruv8qNgJSU9dDnB49fitRo
 
 # Meeting Notes: Welcome Days
 
-> Auto-captured by PersonalOS sync-meeting-notes automation.
+> Auto-captured by HOLLOP sync-meeting-notes automation.
 > Promote to `interactions/` if this meeting needs follow-up tracking.
 
 ## Meta

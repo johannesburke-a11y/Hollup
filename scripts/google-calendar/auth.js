@@ -1,5 +1,5 @@
 /**
- * auth.js — Google OAuth2 flow for PersonalOS
+ * auth.js — Google OAuth2 flow for HOLLOP
  *
  * Run once to authenticate:
  *   node auth.js
@@ -46,7 +46,7 @@ async function main() {
     scope: SCOPES,
   });
 
-  console.log("\n🔐  Authorize PersonalOS to access your Google account:\n");
+  console.log("\n🔐  Authorize HOLLOP to access your Google account:\n");
   console.log("   " + authUrl);
   console.log("\nOpen the URL above in your browser, authorize, then paste the code here:\n");
 

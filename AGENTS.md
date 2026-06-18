@@ -1,13 +1,13 @@
 # AGENTS.md
 
-> **Start manifest for every agent working in PersonalOS.**
+> **Start manifest for every agent working in HOLLOP.**
 > This file is intentionally short. It tells the agent only **what to read** and **how to start**.
 
 ---
 
 ## Mandatory reads in this order
 
-When starting in PersonalOS, every agent must read:
+When starting in HOLLOP, every agent must read:
 
 1. **`INDEX.md`** — system map and navigation. Shows which areas exist and where which truth lives.
 2. **`USER.md`** — who is the human you're working with?
