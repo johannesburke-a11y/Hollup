@@ -16,7 +16,7 @@
 
 ## Category 2 — Tool Integrations
 
-- [ ] **Google Calendar integration**
+- [x] **Google Calendar integration**
   - Read upcoming events, extract participants, suggest interaction files, detect conflicts
   - Requires: Google Calendar API token
   - Ref: `resources/extensions/catalog.md` → Category 2

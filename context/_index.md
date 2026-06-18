@@ -34,4 +34,5 @@ context/
 
 ## Current contents
 
-- `infrastructure/` — empty placeholder (ready for tool context files)
+- `infrastructure/google-calendar.md` — Google Calendar / Drive / Docs integration (IONOS Workspace)
+- `strategy.md` — quarterly goals and personal development focus

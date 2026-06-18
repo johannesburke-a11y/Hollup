@@ -8,6 +8,12 @@ daily/
 *.pem
 *.secret
 
+# Google API credentials and tokens
+scripts/google-calendar/credentials.json
+scripts/google-calendar/token.json
+scripts/google-calendar/node_modules/
+scripts/google-calendar/package-lock.json
+
 # Obsidian workspace files (optional: commit or ignore)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json

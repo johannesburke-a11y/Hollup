@@ -50,4 +50,5 @@ skills/
 - `onboarding.md` — **one-time setup skill** (status: archived — completed 2026-06-18)
 - `add-infrastructure.md` — checklist for connecting a new tool or system (7-step pattern)
 - `daily-log-bootstrap.md` — creates today's daily log from template at session start
+- `google-calendar.md` — Google Calendar / Meet notes / scheduling (IONOS Workspace)
 - `weekly-review.md` — guided weekly review across all PersonalOS areas (~30–45 min)

@@ -114,9 +114,13 @@
 
 ### Tools & Technologies
 - Cornerstone on Demand (internal name: LUMINA) — LMS / HRIS
-- Google Suite
+- Google Suite (Calendar, Drive, Docs, Meet) — integrated via API → `context/infrastructure/google-calendar.md`
 - Articulate Storyline & Articulate Rise — eLearning authoring
 - Techsmith Camtasia — video production / screencasting
+
+### System Roles & Access
+- **Google Calendar (IONOS Workspace)** — read + write access via OAuth
+  - Details: `context/infrastructure/google-calendar.md` | Script: `scripts/google-calendar/calendar.js` | Skill: `skills/google-calendar.md`
 
 ---
 

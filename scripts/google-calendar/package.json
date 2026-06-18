@@ -1,0 +1,13 @@
+{
+  "name": "personalos-google-calendar",
+  "version": "1.0.0",
+  "description": "Google Calendar / Drive / Docs integration for PersonalOS",
+  "type": "module",
+  "scripts": {
+    "auth": "node auth.js",
+    "calendar": "node calendar.js"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
