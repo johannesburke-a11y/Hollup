@@ -22,4 +22,4 @@ scripts/
 
 ## Current contents
 
-_(empty)_
+- `daily-log-bootstrap.ps1` — creates today's daily log from template if it doesn't exist (idempotent)

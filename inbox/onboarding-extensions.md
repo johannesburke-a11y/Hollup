@@ -39,7 +39,7 @@
 
 ## Category 4 — Automation Scripts
 
-- [ ] **daily-log-bootstrap**
+- [x] **daily-log-bootstrap**
   - Creates today's daily log from template on pi session start
   - File: `scripts/daily-log-bootstrap.sh`
   - Requires: `resources/templates/daily.md`

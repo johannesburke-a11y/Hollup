@@ -49,3 +49,4 @@ skills/
 - `log.md` — operational standard skill (session / daily log)
 - `onboarding.md` — **one-time setup skill** (status: archived — completed 2026-06-18)
 - `add-infrastructure.md` — checklist for connecting a new tool or system (7-step pattern)
+- `daily-log-bootstrap.md` — creates today's daily log from template at session start
