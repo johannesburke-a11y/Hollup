@@ -25,12 +25,12 @@
 
 ## Category 3 — Agent Hooks (pi)
 
-- [ ] **session_start — Daily Briefing Widget**
+- [x] **session_start — Daily Briefing Widget**
   - Shows open P1/P2 todos, stale inbox files, date/CW on every pi startup
   - File: `.pi/extensions/personalos.ts`
   - Ref: `resources/extensions/catalog.md` → Category 3
 
-- [ ] **session_shutdown — Automatic Write-Back**
+- [x] **session_shutdown — Automatic Write-Back**
   - Auto-writes session summary if daily log wasn't written manually
   - File: `.pi/extensions/personalos.ts`
   - Ref: `resources/extensions/catalog.md` → Category 3
