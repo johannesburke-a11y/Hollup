@@ -5,22 +5,6 @@
 
 ---
 
-## ⚡ First Run Check
-
-**Before anything else:** Check if USER.md still contains `_TODO_` placeholders.
-
-```bash
-grep -c "_TODO_" USER.md
-```
-
-If the result is > 0 → **load and run `skills/onboarding.md` immediately.**
-Do not proceed with any other task until onboarding is complete.
-The system is not personalized yet and cannot serve the user effectively.
-
-**Language fallback:** Until onboarding sets the operator's preferred language, communicate in English.
-
----
-
 ## Mandatory reads in this order
 
 When starting in PersonalOS, every agent must read:
@@ -40,13 +24,12 @@ After that, the agent reads **only what is relevant to the specific task**:
 
 ## Startup behavior
 
-1. **First Run Check** (see above) — if USER.md has `_TODO_` fields → onboarding first.
-2. Read the four mandatory reads in full.
-3. Orient yourself using `INDEX.md` and find the area responsible for the task.
-4. Load only the **smallest necessary context** — never read the whole vault blindly.
-5. If a skill exists that matches the task: **use it**.
-6. If the task produces write-back (new insight, changed status, new task, new rule): **write back** to the right file.
-7. If you're unsure where something belongs: park it in `inbox/` first, don't guess.
+1. Read the four mandatory reads in full.
+2. Orient yourself using `INDEX.md` and find the area responsible for the task.
+3. Load only the **smallest necessary context** — never read the whole vault blindly.
+4. If a skill exists that matches the task: **use it**.
+5. If the task produces write-back (new insight, changed status, new task, new rule): **write back** to the right file.
+6. If you're unsure where something belongs: park it in `inbox/` first, don't guess.
 
 ---
 

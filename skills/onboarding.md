@@ -1,6 +1,6 @@
 ---
 type: skill
-status: active
+status: archived
 tags: [area/wiki, topic/setup]
 ---
 
@@ -247,3 +247,5 @@ Tell the user:
 ## Notes / History
 
 _(append-only)_
+
+- 2026-06-18: Onboarding completed. Skill archived — one-time use only.
