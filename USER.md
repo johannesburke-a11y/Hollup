@@ -10,7 +10,7 @@
 
 | Field | Value |
 |---|---|
-| Full Name | John Burke |
+| Full Name | Johannes Burke |
 | Nickname / Call name | John |
 | Date of birth | 1981-08-11 |
 | Location | Karlsruhe, Germany |
