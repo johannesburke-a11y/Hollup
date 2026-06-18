@@ -13,6 +13,7 @@ It is the single source of truth for agent behavior that goes beyond the primary
 |---|---|
 | `ruleset.md` | General rules for all agents and subagents |
 | `project-manager.md` | Subagent — project initiation, planning, tracking, and reporting |
+| `instructional-designer.md` | Subagent — eLearning design, storyboard creation, and build handoff |
 
 ## Relationship to other files
 
