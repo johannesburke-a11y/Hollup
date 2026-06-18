@@ -20,6 +20,8 @@ After that, the agent reads **only what is relevant to the specific task**:
 - Skill file
 - Canonical entity file (person, project, organisation, …)
 
+**If the task involves spawning subagents or running automations:** also read `agents/ruleset.md`.
+
 ---
 
 ## Startup behavior
