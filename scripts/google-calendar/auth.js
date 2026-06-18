@@ -22,6 +22,7 @@ const SCOPES = [
   "https://www.googleapis.com/auth/calendar",           // Read + write calendar
   "https://www.googleapis.com/auth/drive.readonly",     // Read Meet notes from Drive
   "https://www.googleapis.com/auth/documents.readonly", // Read Google Docs content
+  "https://www.googleapis.com/auth/directory.readonly", // Read Workspace directory (names, titles, departments)
 ];
 
 async function main() {
